@@ -1,0 +1,24 @@
+Fall 2013 HW Project Assignment 02
+
+Date Assigned
+September 18, 2013 
+
+Java Code Date Due
+September 23, 2013 
+
+Submission Format
+You will submit a soft copy of your Java program solution to the class UserOperations by 5:00 PM on the assigned date (September 23). Name this submission file UserOperations.java. This copy will be provided using Sakai. 
+
+Assignment
+Create the class UserOperations. Use commenting to provide a general description of the class, including your name, section, assignment number, and the due date. Following, use commenting to describe the logic behind important elements of the class. This class will provide the user with methods that perform different operations on our primitive types. 
+
+The structural elements of the class and its operation descriptions are:
+One private property of type boolean integerCalculation, whether or not an integer calculation will be performed.
+One private property of type int total, the total number of operations performed by the methods defined here (not the standard list of methods we include in every class).
+The list of methods we include in every class.
+The method printDescription(). This method prints a description of each of the operational methods defined here (not the standard list of methods we include in every class).
+The method divide(int leftOperand, int rightOperand) will divide the leftOperand by the right Operand and return the result.
+The method divide(double leftOperand, double rightOperand) will divide the leftOperand by the right Operand and return the result.
+The method changeToLowerCase(char upperCaseLetter) will use the numeric distance (32 characters) between the upper and lower case letters, returning the lower case letter.
+The method changeToUpperCase(char lowerCaseLetter) will use the numeric distance (32 characters) between the upper and lower case letters, returning the upper case letter.
+The method printLogicalORTruthTable(). This method will print the truth table of the logical OR.ECHO is on.

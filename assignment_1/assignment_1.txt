@@ -1,0 +1,15 @@
+Fall 2013 HW Project Assignment 01
+
+Date Assigned
+September 4, 2013 
+
+Date Due
+September 9, 2013 
+
+Submission Format
+You will submit a hard copy of your answers at the end of lecture on the assigned date. In the top right hand corner of your submitted page, list: your name, your section number, the assignment number, and the due date. Before providing your answer to each problem, list the problem statement. Your submission paper must be a printed page, not handwritten. Here is a template assignment file provided in: .docx & .pdf. 
+
+Assignment
+Question #1: Implement Java code for the class Account. An Account has a double property balance, the balance of money in the Account. Create two constructors (default and initialization), accessor (get/set) methods, a printInfo method, a toString method, a method deposit that will increase the balance by a specified amount returning nothing, and a method withdraw that will decrease the balance by a user specified amount returning the amount withdrawn. Note: you will perform no error checking, so the account balance is allowed to become negative. 
+
+Question #2: Consider the class Vacation. What are the properties and methods of a Vacation? Propose types and names for all the properties of the class Vacation.
