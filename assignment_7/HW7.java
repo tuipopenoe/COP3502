@@ -1,4 +1,4 @@
-import java.utils.ArrayList;
+import java.util.ArrayList;
 
 class LinearSearch{
 
@@ -11,7 +11,7 @@ class LinearSearch{
     public int linearSearchIterative(Word word){
         for(int i=0; i< list.size()-1; i++){
             if(list.get(i).equals(word)){
-                return int;
+                return i;
             }
         }
         // Element not found
